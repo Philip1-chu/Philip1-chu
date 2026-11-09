@@ -14,7 +14,7 @@ I'm interested in computer science, machine learning, and building practical pro
 
 ## 🚀 Hackathon Experience
 
-### One / Still — App + Hardware Project
+### One / Done — App + Hardware Project
 
 **Xi'an Hackathon · September 2026**
 

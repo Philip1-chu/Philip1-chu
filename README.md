@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Philip 👋
 
-<!--
-**Philip1-chu/Philip1-chu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate student majoring in Computer Science and Technology at Chang'an University, China.
 
-Here are some ideas to get you started:
+I'm interested in computer science, machine learning, and building practical projects. I enjoy exploring new technologies and learning through hands-on experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+
+**Chang'an University** · Xi'an, China
+
+- Major: Computer Science and Technology
+- Undergraduate Student
+- Previously studied Civil Engineering before transferring to Computer Science.
+
+## 🚀 Hackathon Experience
+
+### One / Still — App + Hardware Project
+
+**Xi'an Hackathon · September 2026**
+
+A project combining a mobile application with a physical Perler bead machine, designed to encourage people to focus more on their own lives rather than external social feedback.
+
+**My Contributions**
+- Prepared the project presentation and pitch deck.
+- Produced a promotional video using AI-generated materials and video editing.
+- Participated in hardware modeling discussions and physical assembly.
+- Collaborated with teammates to deliver the final product within a two-day hackathon.
+
+**What I Learned**
+- Teamwork and rapid prototyping under time constraints.
+- The integration of software and hardware.
+- Product communication and visual storytelling.
+
+---
+
+*Always learning, building, and exploring.*
